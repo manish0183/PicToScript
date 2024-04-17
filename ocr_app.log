@@ -1,0 +1,11 @@
+INFO:root:Image uploaded
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:root:Successful OCR request fulfilled
+INFO:root:Image uploaded
+INFO:root:Successful OCR request fulfilled
+INFO:root:User feedback: Yes
+INFO:root:Image uploaded
+INFO:root:Successful OCR request fulfilled
+INFO:root:Image uploaded
+INFO:root:Successful OCR request fulfilled
+INFO:root:User feedback: Yes
