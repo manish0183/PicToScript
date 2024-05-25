@@ -9,3 +9,6 @@ This will help the admin to make improvisation in the picToScript model
 This project is hosted on streamlit Cloud using github.
 Hosted link of project : https://pic2script.streamlit.app/
 For log in of admin dashboard, Username is admin and password : admin123
+
+
+To see all the code files, plz switch to master branch
